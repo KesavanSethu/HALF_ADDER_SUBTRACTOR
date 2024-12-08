@@ -67,6 +67,8 @@ assign carry= ( a & b);
 endmodule
 
 
+
+
 module hs(a,b,difference,borrow);
 
 input a,b;
